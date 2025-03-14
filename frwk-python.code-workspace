@@ -1,0 +1,16 @@
+{
+  "folders": [
+    {
+      "name": "root",
+      "path": "."
+    },
+    {
+      "name": "app",
+      "path": "./app"
+    }
+  ],
+  "settings": {
+    "python.defaultInterpreterPath": "${workspaceFolder}/app/.venv/Scripts/python",
+    "python.analysis.extraPaths": ["${workspaceFolder}/app/src"]
+  }
+}
